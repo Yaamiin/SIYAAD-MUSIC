@@ -29,3 +29,10 @@ Different ways to get your `SESSION`:
 * TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
 
 Made with 💕 by [@Yaamiin](https://t.me/YaamiinTor). <br />
+
+### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
+- Veez Music
+- Daisy
+- Zaid
+- PyroGram
+-xyz ⚡

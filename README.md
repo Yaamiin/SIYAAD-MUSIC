@@ -15,6 +15,9 @@
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
 <a href="https://t.me/Somalibots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Somalibots_help"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
+
+Made with 💕 by [@Yaamiin](https://t.me/YaamiinTor). <br />
+
 ## Session String
 Different ways to get your `SESSION`:
 * [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Yaamiin/somalibots#main.py)
@@ -23,7 +26,6 @@ Different ways to get your `SESSION`:
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
 * TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
 
-Made with 💕 by [@Yaamiin](https://t.me/YaamiinTor). <br />
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
 - Veez Music

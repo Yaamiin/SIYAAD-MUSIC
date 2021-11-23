@@ -1,0 +1,78 @@
+{
+    "name": "Zaid Music Bot",
+    "logo": "https://telegra.ph/file/b85744e817cd61d906f71.jpg",
+    "description": "ZIYAAD music allow you to stream music trought the telegram voice chat feature.",
+    "keywords": ["music", "voice chat", "telegram"],
+    "repository": "https://github.com/Yaamiin/SIYAAD-MUSIC",
+    "stack": "container",
+    "env": {
+        "SESSION_NAME": {
+            "description": "fill with the pyrogram session string",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "fill with your bot token from @BotFather",
+            "required": true
+        },
+        "LOG_CHANNEL": {
+            "description": "fill there channel/group id make sure start with -100",
+            "required": true,
+            "value": ""
+        },
+        "BOT_OWNER": {
+            "description": "fill with your telegram id as the owner of the bot",
+            "required": true,
+            "value": "BOT_OWNER"
+        },
+        "BOT_USERNAME": {
+            "description": "fill with your bot username without @",
+            "required": true,
+            "value": "SHADIYObot"
+        },
+        "ASSISTANT_NAME": {
+            "description": "fill with the assistant username without @",
+            "required": true,
+            "value": "Shadiyo_Helper"
+        },
+        "OWNER_NAME": {
+            "description": "fill with your username without @",
+            "required": false,
+            "value": "@YaamiinTor"
+        },
+        "API_ID": {
+            "description": "your Api ID from my.telegram.org/apps",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "your Api Hash from my.telegram.org/apps",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "fill with the user id who can access all function in your bot (separate with space).",
+            "required": true
+        },
+        "DURATION_LIMIT": {
+            "description": "max duration for music to download (in minutes).",
+            "required": true,
+            "value": "40"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "if you have channel fill the channel username here without @",
+            "required": false,
+            "value": "Somalibots"
+        },
+        "DATABASE_URL": {
+            "description": "mongo db url leave if u don't have",
+            "required": false,
+            "value": "mongodb+srv://ZAID3:ZAID3@cluster0.nb30b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+        }
+    },
+    "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

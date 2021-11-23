@@ -1,4 +1,4 @@
-# Daisyxmusic (Telegram bot project )
+# Ziyaad (Telegram bot project )
 # Copyright (C) 2021  Inukaasith
 
 # This program is free software: you can redistribute it and/or modify
@@ -20,9 +20,9 @@ import asyncio
 from pyrogram import Client, filters
 from pyrogram.errors import UserAlreadyParticipant
 
-from DaisyXMusic.config import SUDO_USERS
-from DaisyXMusic.helpers.decorators import authorized_users_only, errors
-from DaisyXMusic.services.callsmusic import client as USER
+from config import SUDO_USERS
+from IyaadXmusic.helpers.decorators import authorized_users_only, errors
+from IyaadXmusic.services.callsmusic import client as USER
 
 
 @Client.on_message(filters.command(["userbotjoin"]) & ~filters.private & ~filters.bot)
@@ -41,7 +41,7 @@ async def addchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "DaisyMusic"
+        user.first_name = "Ziyaad"
 
     try:
         await USER.join_chat(invitelink)
@@ -123,7 +123,7 @@ async def addcchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "DaisyMusic"
+        user.first_name = Ziyaad"
 
     try:
         await USER.join_chat(invitelink)
@@ -137,7 +137,7 @@ async def addcchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>🛑 Flood Wait Error 🛑 \n User {user.first_name} couldn't join your channel due to heavy join requests for userbot! Make sure user is not banned in channel."
-            "\n\nOr manually add @DaisyXhelper to your Group and try again</b>",
+            "\n\nOr manually add the assistant to your Group and try again</b>",
         )
         return
     await message.reply_text(

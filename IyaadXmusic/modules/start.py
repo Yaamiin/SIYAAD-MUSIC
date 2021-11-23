@@ -2,9 +2,9 @@
 import asyncio
 from time import time
 from datetime import datetime
-from config import BOT_USERNAME, UPDATES_CHANNEL, ZAID_SUPPORT
-from helpers.filters import command
-from helpers.command import commandpro
+from IyaadXmusic.config import BOT_USERNAME, UPDATES_CHANNEL, ZAID_SUPPORT
+from IyaadXmusic.helpers.filters import command
+from IyaadXmusic.helpers.command import commandpro
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 

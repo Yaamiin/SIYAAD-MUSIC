@@ -1,4 +1,4 @@
-# SIYAAD-MUSIC
+# ZIYAAD-MUSIC
 
 <p align="center"><a href="https://t.me/Somalibots"><img src="https://telegra.ph/file/ac3e3b4f5af4bfa00daab.jpg" width="300"></a></p>
 

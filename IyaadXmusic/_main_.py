@@ -19,7 +19,7 @@ import requests
 from pyrogram import Client as Bot
 
 from IyaadXmusic.config import API_HASH, API_ID, BG_IMAGE, BOT_TOKEN
-from IyaadXmusic.services.musiccall.callsmusic import run
+from IyaadXmusic.musiccall.callsmusic import run
 
 response = requests.get(BG_IMAGE)
 file = open("./etc/foreground.png", "wb")

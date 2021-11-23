@@ -1,6 +1,6 @@
 # SIYAAD-MUSIC
 
-<p align="center"><a href="https://t.me/Somalibots"><img src="https://https://telegra.ph/file/4b9c339305387d2b40da1.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Somalibots"><img src="https://telegra.ph/file/ac3e3b4f5af4bfa00daab.jpg" width="300"></a></p>
 
 
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 💜

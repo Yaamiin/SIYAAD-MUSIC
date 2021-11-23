@@ -9,12 +9,7 @@
 [![Zɪʏᴀᴀᴅ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yaamiin/SIYAAD-MUSIC)
 
 
-### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
-- Veez Music
-- Daisy
-- Zaid
-- PyroGram
--xyz ⚡
+
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑

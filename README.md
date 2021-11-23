@@ -28,7 +28,6 @@ Different ways to get your `SESSION`:
 
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
-#- #TOR
 - Veez Music
 - Daisy
 - Zaid

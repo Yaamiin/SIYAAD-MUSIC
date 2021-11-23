@@ -1,4 +1,3 @@
-git+https://github.com/Yaamiin/yt-dl@master
 pyrogram
 TgCrypto
 pytgcalls

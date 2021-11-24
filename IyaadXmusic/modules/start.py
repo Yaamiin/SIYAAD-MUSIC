@@ -2,7 +2,7 @@
 import asyncio
 from time import time
 from datetime import datetime
-from config import BOT_USERNAME, UPDATES_CHANNEL, ZAID_SUPPORT
+from config import BOT_USERNAME, UPDATES_CHANNEL, SUPPORT_GROUP
 from IyaadXmusic.helpers.filters import command
 from IyaadXmusic.helpers.command import commandpro
 from pyrogram import Client, filters

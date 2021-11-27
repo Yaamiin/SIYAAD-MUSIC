@@ -7,6 +7,7 @@
 ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
 
 # **This Repo is not _Working_ don't fork_don't deploy**
+For more info>.
 
 [![Zɪʏᴀᴀᴅ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yaamiin/SIYAAD-MUSIC)
 
